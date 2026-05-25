@@ -58,7 +58,7 @@ The MRI dataset contains four classes:
 # Workflow Pipeline
 
 <p align="center">
-  <img src="assets/architecture.png" width="100%">
+  <img src="assets/workflow.png" width="100%">
 </p>
 
 The complete workflow includes:
