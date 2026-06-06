@@ -40,7 +40,7 @@ The extracted deep representations are further analyzed using several machine le
 
 In addition to standalone feature evaluation, the project introduces a feature fusion strategy where embeddings from multiple CNN models are combined and passed through a fully connected deep neural network for final classification.
 
----
+
 
 # Dataset
 
